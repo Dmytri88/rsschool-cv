@@ -3,8 +3,9 @@
 ## Contact Info
 **Phone number**: +375 44 732 62 11
 **e-mail**: palash@yandex.ru
+**Telegram**: @dmpalash
 **Discord**: Dmitry Palash(@Dmytri88)
-**Telegram**: @dmpalsh
+
 
 ## Summary
 I have a great desire to become a developer. At the moment I have a small amount of knowledge, but I will do my best to become a professional.
