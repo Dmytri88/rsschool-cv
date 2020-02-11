@@ -1,10 +1,10 @@
 # Dmitry Palash
 
 ## Contact Info
-**Phone number**: +375 44 732 62 11
-**e-mail**: palash@yandex.ru
-**Telegram**: @dmpalash
-**Discord**: Dmitry Palash(@Dmytri88)
+**Phone number**: +375 44 732 62 11;
+**e-mail**: palash@yandex.ru;
+**Telegram**: @dmpalash;
+**Discord**: Dmitry Palash(@Dmytri88).
 
 
 ## Summary
