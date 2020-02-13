@@ -1,0 +1,129 @@
+body{
+	 font-family:"Tahoma", semi-serif;
+	}
+
+.first-task{
+  position: absolute;
+  display: grid;
+  width: 550px;
+  left: 20%;
+  margin-top: 20px;
+  grid-gap: 60px;
+  grid-template-columns: 270px 270px 270px;
+  grid-template-rows: 100px 100px 100px 100px;
+}
+
+.stat_info{
+  grid-column-start: 3;
+  grid-column-end: -1;
+}
+
+.name{
+  text-align:center;
+  font-size:40px;
+  color:gray;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 2;
+}
+
+.cv{
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+li{
+	list-style-type: none;
+	margin-top:8px;
+}
+
+img{
+    width: 100%;
+	height: 100%;	
+}
+
+.about_me li,
+.skills li{
+padding:5px;
+margin-bottom: 10px;
+margin-left: -30px;
+border-radius: 5px;
+border-left: 10px solid #d46efc;
+}
+
+.about_me li:first-of-type,
+.skills li:first-of-type
+{
+	border-color:rgb(253, 78, 78);
+}
+
+.about_me li:last-child,
+.skills li:last-child
+{
+	border-color:rgb(59, 233, 96);
+}
+
+.title_cv{
+	text-transform: uppercase;
+	color:rgba(15, 85, 85, 0.5);
+	border: none;
+	font-size: 35px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+h3,
+h2{
+	border-bottom:3px solid rgba(36, 242, 242, 0.5);
+	border-left:25px solid rgba(36, 242, 242, 0.5);
+	padding:3px;
+	padding-top:0;
+}
+
+
+
+a{
+	text-decoration:none;
+	color: dodgerblue;
+}
+
+.stat_info:nth-of-type(1) h3,li 
+{
+	margin-left:-15px;
+	}
+
+.summary{
+	text-align:	justify;
+}
+
+.date{
+	text-align:right;
+}
+
+.tel{
+	vertical-align:bottom;
+	list-style-image:url('img_css/phone.png');
+}
+
+.e-mail{
+	vertical-align:bottom;
+	list-style-image:url('img_css/email.png');
+	}
+
+.discord{
+	vertical-align:bottom;
+	list-style-image:url('img_css/discord.png');
+	}
+.date{
+	display: block;
+	margin-top: -20px;
+	margin-right: 0;
+	margin-bottom: -18px;
+	color: rgb(8, 8, 163);
+}
+
+.bntu{
+	display: inline-block;
+}
